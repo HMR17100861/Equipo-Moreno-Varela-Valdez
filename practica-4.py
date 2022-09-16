@@ -21,5 +21,5 @@ while i < num_materias:
     diccionario[materia] = creditos
     i += 1
 
-print("Semestre:" + str(semestre)+", Total de creditos:"+ str(creditos_totales))
+print("Semestre: " + str(semestre)+", Total de creditos: "+ str(creditos_totales))
 print(diccionario)
