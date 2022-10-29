@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"crossorigin="anonymous"></script>
+    <title>Bienvenido al sistema gestor de carro</title>
+</head>
+<body>
+    <div>
+        <a href="agregar_domicilio"><button type="button" class="btn btn-outline-success"> Agregar Domicilio</button></a>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Calle</th>
+                    <th>Numero de Domicilio</th>
+                    <th>Pais</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for domicilio in domicilio %}
+                <tr>
+                    <td>{{domicilio.id}}</td>
+                    <td>{{domicilio.calle}}</td>
+                    <td>{{domicilio.no_calle}}</td>
+                    <td>{{domicilio.pais}}</td>
+                    <td><a href="detalle_domicilio/{{domicilio.id}}"><button type="button" class="btn btn-outline-info"> Detalles de la entrega</button></a></td>
+                    <td><a href="editar_domicilio/{{domicilio.id}}"><button type="button" class="btn btn-outline-warning"> Editar del entrega</button></a></td>
+                    <td><a href="eliminar_domicilio/{{domicilio.id}}"><button type="button" class="btn btn-outline-danger"> Eliminar entrega</button></a></td>  
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="{% url 'index'%}"><button type="button" class="btn btn-outline-info">Regresar inicio</button></a>
+    </div>
+    
+</body>
+</html>

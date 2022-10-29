@@ -1,0 +1,194 @@
+12:13:59 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:14:00 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x0000020B416B2860>
+12:14:00 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000020B413DBDE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:14:00 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:14:00 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000020B413DBDE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:14:46 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:14:46 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x00000217254C2740>
+12:14:46 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000217251E7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:14:46 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:14:46 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000217251E7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:14 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:15:15 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x000002897AB62740>
+12:15:15 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000002897A887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:15 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:15:15 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000002897A887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:15 PM [ClienteDao.py]:47 Personas insertadas 1
+12:15:15 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:15:15 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000002897A887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:15 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:15:15 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000002897A887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:15 PM [ClienteDao.py]:51 Personas actualizadas 1
+12:15:15 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:15:15 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000002897A887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:15 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:15:15 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000002897A887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:15:15 PM [ClienteDao.py]:59 1KOTTY CORPG1777737
+12:16:06 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:16:06 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x0000014EE0992770>
+12:16:06 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000014EE06B7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:16:06 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:16:06 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000014EE06B7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:18:01 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:18:10 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x00000219BC4DB040>
+12:18:56 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000219BB88EAC0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:19:18 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:19:32 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000219BB88EAC0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:20:57 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x000001E9B03B2740>
+12:20:57 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001E9B00D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:20:57 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001E9B00D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [ClienteDao.py]:47 Personas insertadas 1
+12:20:57 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:20:57 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001E9B00D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:20:57 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001E9B00D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [ClienteDao.py]:51 Personas actualizadas 0
+12:20:57 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:20:57 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001E9B00D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:20:57 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001E9B00D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:20:57 PM [ClienteDao.py]:59 2KOTTY INCG1234567
+12:21:49 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:21:49 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x000001C5FDE02770>
+12:21:49 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001C5FDB27DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:21:49 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:21:49 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001C5FDB27DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:22:22 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:22:22 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x000001D0C1882770>
+12:22:22 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001D0C15A7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:22:22 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:22:22 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001D0C15A7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:22:22 PM [ClienteDao.py]:55 Personas eliminadas 0
+12:22:22 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:22:22 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001D0C15A7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:22:22 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:22:22 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001D0C15A7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:22:22 PM [ClienteDao.py]:59 2KOTTY INCG1234567
+12:22:51 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:22:51 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x00000175E9E82770>
+12:22:51 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000175E9BA7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:22:51 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:22:51 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000175E9BA7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:23:02 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:23:02 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x00000202AEB62770>
+12:23:02 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000202AE887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:23:02 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:23:02 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000202AE887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:23:02 PM [ClienteDao.py]:55 Personas eliminadas 1
+12:23:02 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:23:02 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000202AE887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:23:02 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:23:02 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000202AE887DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:49 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:32:50 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x00000208164B2740>
+12:32:50 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:32:50 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [ClienteDao.py]:48 Personas insertadas 1
+12:32:50 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:32:50 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:32:50 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [ClienteDao.py]:52 Personas insertadas 1
+12:32:50 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:32:50 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:32:50 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [ClienteDao.py]:56 Personas insertadas 1
+12:32:50 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:32:50 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:32:50 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000208161D7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:32:50 PM [ClienteDao.py]:69 3KOTTY INCG1234567
+12:32:50 PM [ClienteDao.py]:69 4KOIG2224267
+12:32:50 PM [ClienteDao.py]:69 5MAXIMUSG9999997
+12:33:24 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:33:24 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x000001CE8CECA770>
+12:33:24 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001CE8CC67DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:33:24 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:33:24 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001CE8CC67DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:33:24 PM [ClienteDao.py]:60 Personas actualizadas 1
+12:33:24 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:33:24 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x000001CE8CC67DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:33:24 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:33:24 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x000001CE8CC67DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:33:24 PM [ClienteDao.py]:69 4KOIG2224267
+12:33:24 PM [ClienteDao.py]:69 5MAXIMUSG9999997
+12:33:24 PM [ClienteDao.py]:69 3ROGUEG1777737
+12:34:38 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:34:38 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x0000021093B02770>
+12:34:38 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000021093827DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:34:38 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:34:38 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000021093827DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:34:38 PM [ClienteDao.py]:65 Personas eliminadas 1
+12:34:38 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:34:38 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000021093827DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:34:38 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:34:38 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000021093827DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:34:38 PM [ClienteDao.py]:69 Id del cliente:4, Razon Social: KOI, Consignee:G2224267
+12:34:38 PM [ClienteDao.py]:69 Id del cliente:5, Razon Social: MAXIMUS, Consignee:G9999997
+12:47:49 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:47:49 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x0000019737D1F5E0>
+12:47:49 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:47:49 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [ProveedorDao.py]:49 Personas insertadas 1
+12:47:49 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:47:49 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:47:49 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [ProveedorDao.py]:53 Personas insertadas 1
+12:47:49 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:47:49 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:47:49 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [ProveedorDao.py]:57 Personas insertadas 1
+12:47:49 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:47:49 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:47:49 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000019737AB7DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:47:49 PM [ProveedorDao.py]:61 Personas actualizadas 1
+12:48:21 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:48:21 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x00000261BAD7AA70>
+12:48:21 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000261BAB17DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:48:21 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:48:21 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000261BAB17DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:48:21 PM [ProveedorDao.py]:66 Personas eliminadas 1
+12:48:21 PM [cursor_del_pool.py]:10 Inicio del metodo with
+12:48:21 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x00000261BAB17DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:48:21 PM [cursor_del_pool.py]:16 Se ejecuta exit
+12:48:21 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x00000261BAB17DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+12:48:21 PM [ProveedorDao.py]:70 Id del Proveedor: 1, Razon Social:T1, Shipper: G1234567
+12:48:21 PM [ProveedorDao.py]:70 Id del Proveedor: 3, Razon Social:JDG, Shipper: G1777737
+01:15:12 PM [cursor_del_pool.py]:10 Inicio del metodo with
+01:15:12 PM [Conexion.py]:44 Creacion del pool <psycopg2.pool.SimpleConnectionPool object at 0x0000022C056CE920>
+01:15:12 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:16 Se ejecuta exit
+01:15:12 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:10 Inicio del metodo with
+01:15:12 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:16 Se ejecuta exit
+01:15:12 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:10 Inicio del metodo with
+01:15:12 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:16 Se ejecuta exit
+01:15:12 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [ProductoDao.py]:56 Personas insertadas 1
+01:15:12 PM [cursor_del_pool.py]:10 Inicio del metodo with
+01:15:12 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:16 Se ejecuta exit
+01:15:12 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [ProductoDao.py]:60 Personas actualizadas 1
+01:15:12 PM [cursor_del_pool.py]:10 Inicio del metodo with
+01:15:12 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:16 Se ejecuta exit
+01:15:12 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [ProductoDao.py]:65 Personas eliminadas 1
+01:15:12 PM [cursor_del_pool.py]:10 Inicio del metodo with
+01:15:12 PM [Conexion.py]:55 Conexion Obtenida <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [cursor_del_pool.py]:16 Se ejecuta exit
+01:15:12 PM [Conexion.py]:62 Conexion regresada: <connection object at 0x0000022C05467DE0; dsn: 'user=postgres password=xxx dbname=tes_db host=127.0.0.1 port=5432', closed: 0>
+01:15:12 PM [ProductoDao.py]:69 1MonitorMarca Samsung, color negro, 24 pulgadas, 1920x1080, 60Hz
+01:15:12 PM [ProductoDao.py]:69 3EscritorioHecho de madera y rgb
