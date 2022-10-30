@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Agregar Oficio</title>
+</head>
+<body>
+    <h1>Agregar Oficio</h1>
+    <form method="POST">
+        {{forma.csrf_token}}
+        <p>
+            {{forma.ocupacion.label}}<br/>
+            {{forma.ocupacion(size=30)}}
+        </p>
+        <p>
+            {{forma.sueldo.label}}<br/>
+            {{forma.sueldo(size=30)}}
+        </p>
+        
+        <p>
+            {{forma.enviar()}}
+        </p>
+        <p>
+            <a href="Empresa">add oficina</a>
+        </p>
+    </form>
+</body>
+</html>

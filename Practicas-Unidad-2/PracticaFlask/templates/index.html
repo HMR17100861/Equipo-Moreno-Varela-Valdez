@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'styles.css') }}">
+    <title>Listado de Personas</title>
+</head>
+<body>
+    <h1>LISTADO DE PERSONAS</h1>
+    <div>
+        <a href="{{url_for('agregar')}}">Agregar</a>
+    </div>
+    <div>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Direccion</th>
+                <!-- <th>Oficio</th> -->
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+
+            <tbody>
+                {% for persona in personas %}
+                <tr>
+                    <td>{{persona.id}}</td>
+                    <td>{{persona.nombre}}</td>
+                    <td>{{persona.apellido}}</td>
+                    <td>{{persona.direccion}}</td>
+                    <!-- <td>{{persona.oficio_id}}</td> -->
+                    <br>
+                    <td><a href="ver/{{persona.id}}">ver</a></td> 
+                    
+                    <td><a href="Oficio">oficio</a></td>
+                    
+                    <td><a href="editar/{{persona.id}}">editar</a></td></br>
+                    
+                    <td><a href="eliminar/{{persona.id}}">eliminar</a></td>
+                
+                    
+                </tr>
+                {%endfor%}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
